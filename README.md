@@ -1,6 +1,6 @@
 [![make.fun](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
-[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/bongekanjing/six-words-vivid-walrus-33/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
-[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/bongekanjing/six-words-vivid-walrus-33/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410)
+[![rank](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/bongekanjing/sixwords-vivid-walrus-33/rank.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard)
+[![reward](https://make.fun/badge/u-deranalabs-six-words-one-story-f982e410/bongekanjing/sixwords-vivid-walrus-33/reward.svg)](https://make.fun/bounty/u-deranalabs-six-words-one-story-f982e410/leaderboard)
 
 # His Lunchbox Came Home
 
